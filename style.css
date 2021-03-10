@@ -1,0 +1,24 @@
+h3 {
+  color: red;
+}
+h4 {
+  color: darkblue;
+}
+p {
+  font-size: 25px;
+}
+.violet {
+  color: darkmagenta;
+}
+#green {
+  color: green;
+}
+.table {
+  background: lightgreen;
+}
+.table {
+  border-style: double;
+  border-width: 2px;
+  letter-spacing: 2px;
+  border-spacing: 50px;
+}
